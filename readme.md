@@ -108,5 +108,3 @@ python main.py
 ## Disclaimer
 
 This tool is for learning and research purposes only, and the data sources are publicly accessible websites. When using this tool, please comply with the robots protocol and relevant regulations of the target website, and reasonably control the access frequency.
-
-> （注：文档部分内容可能由 AI 生成）
